@@ -28,14 +28,13 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  CRISTA
     
-➥ Creator : [𝙼𝚁 𝙿𝙴𝚁𝙵𝙴𝙲𝚃](https://t.me/mr_perfect_07
-)
+➥ Creator : @mr_perfect_07
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Support : [Click Me](https://t.me/m_hub_discussion)
+➥ Support : [Click Me](https://t.me/movies_hub_discussion)
 """
